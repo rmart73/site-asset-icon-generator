@@ -1,9 +1,7 @@
-# site-asset-icon-generator
-
 # Site Asset Icon Generator
 
 ## Purpose
-A lightweight HTML/JavaScript tool for creating consistent site asset icons for SharePoint-style navigation, tiles, and related UI use cases.
+A lightweight HTML/JavaScript tool for creating consistent site asset icons for SharePoint-style navigation, tiles, and related UI use cases. This application uses SVG markup to avoid any additional dependencies but the more icons make the code longer. 
 
 ## Features
 - Live icon preview
