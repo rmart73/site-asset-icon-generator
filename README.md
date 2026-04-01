@@ -11,9 +11,10 @@ A lightweight HTML/JavaScript tool for creating consistent site asset icons for 
 - Multiple icon styles and layouts
 - Example tile preview
 - Usage notes panel
+- Allows for SVG and JSON Icon Packs
 
 ## Project Structure
-- `index.html` - main application
+- `IconBuilder.html` - main application
 - `css/` - styles
 - `js/` - application logic
 - `assets/` - screenshots, examples, and sample icons
@@ -21,7 +22,7 @@ A lightweight HTML/JavaScript tool for creating consistent site asset icons for 
 - `archive/` - older versions and backups
 
 ## Usage
-1. Open `index.html` in a browser.
+1. Open `IconBuilder.html` in a browser.
 2. Choose icon settings.
 3. Preview the result.
 4. Export as SVG or PNG.
@@ -31,6 +32,4 @@ This repository is intended to be safe for public sharing. Do not include intern
 
 ## Roadmap
 - Split large single-file builds into modular CSS/JS
-- Add icon pack support
-- Improve PNG export consistency
 - Add more sample presets
